@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Atul Tiwari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
